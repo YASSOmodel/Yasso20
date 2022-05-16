@@ -1,0 +1,2 @@
+ParY20.dat - The MAP estimates for every parameter value used. A single parameter set to use as for single runs.
+Yasso20.dat - Contains 10 000 accepted parameter sets from the calibration process which can be used to produce an uncertainty estimate for Yasso20 simulations
